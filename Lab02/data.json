@@ -1,0 +1,15 @@
+{
+  "chart_title": "My Favorite Movies",
+  "movies": [
+    {"title": "Parasite", "genre": "Thriller", "year": 2019, "rating": 10.0, "runtime": 133},
+    {"title": "Where the Crawdads Sing", "genre": "Drama", "year": 2022, "rating": 9.9, "runtime": 126},
+    {"title": "Forgotten", "genre": "Thriller", "year": 2017, "rating": 10.0, "runtime": 108},
+    {"title": "Jojo Rabbit", "genre": "Comedy", "year": 2019, "rating": 9.5, "runtime": 108},
+    {"title": "Journey to the West", "genre": "Comedy", "year": 2013, "rating": 9.8, "runtime": 110},
+    {"title": "All Quiet on the Western Front", "genre": "War", "year": 2022, "rating": 9.4, "runtime": 147},
+    {"title": "Iron Man", "genre": "Action", "year": 2008, "rating": 10.0, "runtime": 126},
+    {"title": "Selena", "genre": "Drama", "year": 1997, "rating": 10.0, "runtime": 127},
+    {"title": "Knives Out", "genre": "Mystery", "year": 2019, "rating": 8.9, "runtime": 130},
+    {"title": "Jack and the Cuckoo-Clock Heart", "genre": "Animation", "year": 2013, "rating": 9.4, "runtime": 94}
+  ]
+}
